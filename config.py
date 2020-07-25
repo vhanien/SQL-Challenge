@@ -1,2 +1,0 @@
-# Password
-password = "postgres"
